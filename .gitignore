@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Variables de entorno (nunca subir esto)
+.env
+
+# Build frontend
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
